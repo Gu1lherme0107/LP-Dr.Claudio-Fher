@@ -2,6 +2,9 @@
 
 Site profissional desenvolvido para o Dr. Claudio Fher, especialista em medicina de precisão e bioengenharia.
 
+Veja o site em funcionamento:
+https://lp-dr-claudio-fher.vercel.app/
+
 ## 🚀 Tecnologias Utilizadas
 
 - React
